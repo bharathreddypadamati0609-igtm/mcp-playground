@@ -16,3 +16,14 @@ This repository is used to learn:
 - Create Issues
 - Create Pull Requests
 - Test GitHub API Access
+
+## Branch Testing
+
+This section was added from the feature-mcp-testing branch.
+
+### MCP Learning Goals
+
+- Learn GitHub MCP servers
+- Understand tool calling
+- Explore Streamable HTTP
+- Practice Pull Request workflows
